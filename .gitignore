@@ -1,0 +1,7 @@
+/target/
+/scratch/*
+!/scratch/.gitkeep
+/data/*.osm.pbf
+/data/*.myroute
+/demo/
+*.myroute

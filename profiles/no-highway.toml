@@ -1,0 +1,8 @@
+name = "no-highway"
+highway_penalty = 3.0
+minor_road_penalty = 0.0
+traffic_signal_penalty_s = 0.0
+left_turn_penalty_s = 0.0
+turn_penalty_s = 3.0
+u_turn_penalty_s = 120.0
+max_extra_time_ratio = 0.25

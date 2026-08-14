@@ -1,0 +1,7 @@
+name = "fastest"
+highway_penalty = 0.0
+minor_road_penalty = 0.0
+traffic_signal_penalty_s = 0.0
+left_turn_penalty_s = 0.0
+turn_penalty_s = 0.0
+u_turn_penalty_s = 0.0
